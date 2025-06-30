@@ -43,4 +43,3 @@ print(disc.values())
 print(disc["age"]) #to print specific value
 disc.clear()  #yesle chai disctinoney lai khali banai dinxa
 print(disc)
-
