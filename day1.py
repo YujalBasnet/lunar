@@ -53,7 +53,7 @@ while True:
     
         
 
-    # euta manxe xaa, manxe ko aagadi 3 ota baato xa, aaba tyo manxe ki ta right ,left  gayo vane game harxa.. 
+    # euta manxe xaa yes then, manxe ko aagadi 3 ota baato xa, aaba tyo manxe ki ta right ,left  gayo vane game harxa.. 
 # ra straight gayo vane pond or river ma pugxa..and then ask boat ma jane kii tairedai janey...
 # if he choose to tairena tyo manxe palace ma pugxa, ra palace ma pugera usko aagadi chai 4 ota dhoka hunxa..
 # else, boat ma jane vayo vane..boat is never gonna come , and you loose the game....back to palace, 
