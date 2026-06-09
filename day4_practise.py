@@ -9,7 +9,7 @@
 #         print("Leap Year")
 # else:
 #     print("Not Leap Year")
-a=int(input("kun ko table chaiyo:? "))
+a=int(input("kun ko table chaiyeko:? "))
 b=int(input("kati samma:? "))
 for i in range(a,b,2):
     print(i)
