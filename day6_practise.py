@@ -37,8 +37,8 @@
 # print(c)
 
 #DICTIONERY--------------------------->
-disc={"name":"yujal", "age":16}
-disc.pop("name")# yesle chai name ko value ra key lai delete handinxa (.popitems) le chai last ko delete handinxa
+disc={"namee":"yujal", "age":16}
+disc.pop("namee")# yesle chai name ko value ra key lai delete handinxa (.popitems) le chai last ko delete handinxa
 print(disc.values())
 print(disc["age"]) #to print specific value
 disc.clear()  #yesle chai disctinoney lai khali banai dinxa
