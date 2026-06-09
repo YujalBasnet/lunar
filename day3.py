@@ -1,5 +1,5 @@
 
-math=int(input("Enter marks of math:"))
+math=int(input("Enter marks of Math:"))
 science=int(input("Enter marks of science:"))
 nepali=int(input("enter marks of nepali:"))
 social=int(input("enter marks of social:"))
