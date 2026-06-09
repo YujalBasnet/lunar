@@ -81,6 +81,6 @@ elif ways== "straight" or ways=="Straight":
         elif door=="door 3" or door== "Door 3":
             print(f"congrats, {name}, you have found the hidden treasure. hence, you won the game!!!!!!")
         else:
-            print(f"sorry, {name}, Lion got you, Game Over!!")  
+            print(f"sorry, {name}, Lion got you hammmm, Game Over!!")  
 else:
     print(f"{name}, you loose the game.")
