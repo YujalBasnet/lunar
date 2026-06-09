@@ -59,4 +59,4 @@ if item=="momo":
         print(f"your total bill is: {price}")
     elif type=="chicken":
         price+=60
-        print(f"your total bill is: {price}")
+        print(f"Your total bill is: {price}")
